@@ -1,0 +1,14 @@
+body 
+{
+    background-color: rgb(234, 207, 0);
+}
+p 
+{
+    color: rgb(29, 0, 0);
+}
+time
+{
+    font-size: 20px;
+    float: right;
+    margin: right;
+}
